@@ -1,0 +1,26 @@
+{
+  "name": "web-speech-synthesis",
+  "version": "1.0.0",
+  "description": "html 5 speech synthesis api implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavkapoorr/web-speech-synthesis.git"
+  },
+  "keywords": [
+    "web",
+    "html5"
+  ],
+  "author": "Pranav Kapoor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranavkapoorr/web-speech-synthesis/issues"
+  },
+  "homepage": "https://github.com/pranavkapoorr/web-speech-synthesis#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.0"
+  }
+}
