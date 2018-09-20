@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/pranavkapoorr/web-speech-synthesis/issues"
   },
-  "homepage": "https://github.com/pranavkapoorr/web-speech-synthesis",
+  "homepage": "https://pranavkapoorr.github.io/web-speech-synthesis",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
