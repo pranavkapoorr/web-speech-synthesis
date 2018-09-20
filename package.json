@@ -4,7 +4,7 @@
   "description": "html 5 speech synthesis api implementation",
   "main": "index.js",
   "scripts": {
-    "deploy":"gh-pages -d dist"
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/pranavkapoorr/web-speech-synthesis/issues"
   },
-  "homepage": "https://github.com/pranavkapoorr/web-speech-synthesis#readme",
+  "homepage": "https://github.com/pranavkapoorr/web-speech-synthesis",
   "dependencies": {
     "gh-pages": "^2.0.0"
   }
