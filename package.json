@@ -4,7 +4,7 @@
   "description": "html 5 speech synthesis api implementation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy":"gh-pages -d dist"
   },
   "repository": {
     "type": "git",
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "web",
-    "html5"
+    "html5",
+    "tts"
   ],
   "author": "Pranav Kapoor",
   "license": "ISC",
